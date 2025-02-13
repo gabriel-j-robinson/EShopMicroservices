@@ -10,3 +10,5 @@ Catalog Microservice
 | PUT | /products/{id} | Update a product |
 | DELETE | /products/{id} | Remove a product |
 
+Uses a vertical slice architecture
+- Code is organized into feature folders, where each feature is encapsulated in a single .cs file
