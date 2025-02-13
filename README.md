@@ -1,6 +1,6 @@
-# EShopMicroservices
+## EShopMicroservices
 
-Catalog Microservice
+**Catalog Microservice**
 | Method  | Request URI | Use Cases |
 | ------------- | ------------- | ------------- |
 | GET  | /products  | List all products |
